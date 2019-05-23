@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1558637244209.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "B6191CC",
+    "lastKnownWriteTime" : 27584783943991345,
+    "last_content_update" : 1558637244209,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "2CF2D7BD",
+        "caption" : "manhigher103",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=manhigher103&cache_key=2CF2D7BD",
+        "displayedObservations" : 140,
+        "environment" : "",
+        "object" : "manhigher103",
+        "preview" : 0,
+        "totalObservations" : 140,
+        "variables" : 2
+    },
+    "relative_order" : 6,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

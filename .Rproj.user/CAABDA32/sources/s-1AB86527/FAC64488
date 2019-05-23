@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1558285594825.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "818830260",
+    "id" : "FAC64488",
+    "lastKnownWriteTime" : 1558639342,
+    "last_content_update" : 1558639342727,
+    "path" : "D:/College/課程/大數據分析/107bigdatacguimhw1-ireneliao21/DataAnalysis.R",
+    "project_path" : "DataAnalysis.R",
+    "properties" : {
+        "cursorPosition" : "64,101",
+        "scrollLine" : "36"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
